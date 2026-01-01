@@ -1,0 +1,20 @@
+# Node dependencies
+node_modules/
+
+# Frontend build
+client/dist/
+server/node_modules/
+
+# Environment variables
+.env
+
+# System files
+.DS_Store
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+
+# Editor config
+.vscode/
+.idea/
